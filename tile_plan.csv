@@ -1,0 +1,147 @@
+group,name,lat,lon,date_from,date_to,dx_km,dy_km,notes
+colony,Yule Bay,-70.7161,166.4777,2016-11-23,2016-11-23,0,0,Fretwell 2021 Table 1 example date
+colony,Karelin Bay,-66.4118,85.38361,2018-10-09,2018-10-09,0,0,Fretwell 2021 Table 1 example date
+colony,Cape Gates,-73.6609,-122.697,2016-11-07,2016-11-07,0,0,Fretwell 2021 Table 1 example date
+colony,Cruzen Island,-74.7235,-140.357,2018-12-03,2018-12-03,0,0,Fretwell 2021 Table 1 example date
+colony,Porpoise Bay,-66.3204,129.7496,2017-10-15,2017-10-15,0,0,Fretwell 2021 Table 1 example date
+colony,Cape Darlington,-71.8872,-60.1338,2019-10-23,2019-10-23,0,0,Fretwell 2021 Table 1 example date
+colony,Pfrogner Point,-72.5687,-89.9058,2019-11-07,2019-11-07,0,0,Fretwell 2021 Table 1 example date
+colony,Paulet Island,-63.583,-55.783,2021-01-15,2021-01-31,0,0,peninsula; Adelie ~100000 pairs
+colony,Paulet Island,-63.583,-55.783,2022-02-01,2022-02-15,0,0,peninsula; Adelie ~100000 pairs
+colony,Paulet Island,-63.583,-55.783,2023-01-15,2023-01-31,0,0,peninsula; Adelie ~100000 pairs
+colony,Brown Bluff,-63.533,-56.917,2021-01-15,2021-01-31,0,0,peninsula; Adelie ~20000 / gentoo ~550 pairs
+colony,Brown Bluff,-63.533,-56.917,2022-02-01,2022-02-15,0,0,peninsula; Adelie ~20000 / gentoo ~550 pairs
+colony,Brown Bluff,-63.533,-56.917,2023-01-15,2023-01-31,0,0,peninsula; Adelie ~20000 / gentoo ~550 pairs
+colony,Petermann Island,-65.167,-64.167,2020-01-15,2020-01-31,0,0,peninsula; gentoo ~3000 pairs (some Adelie)
+colony,Petermann Island,-65.167,-64.167,2021-01-15,2021-01-31,0,0,peninsula; gentoo ~3000 pairs (some Adelie)
+colony,Danger Islands,-63.417,-54.667,2021-01-15,2021-01-31,0,0,peninsula; Adelie 751527 pairs in 5+ colonies
+colony,Danger Islands,-63.417,-54.667,2023-01-15,2023-01-31,0,0,peninsula; Adelie 751527 pairs in 5+ colonies
+colony,Half Moon Island,-62.59,-59.91,2020-01-15,2020-01-31,0,0,peninsula; chinstrap ~2000 pairs
+colony,Cape Shirreff,-62.459,-60.789,2020-01-15,2020-01-31,0,0,peninsula; chinstrap up to ~10000 pairs (some gentoo)
+colony,Booth Island,-65.08,-64.0,2020-01-15,2020-01-31,0,0,peninsula; penguin rookery on Jeanne Hill (species not stated)
+colony,Booth Island,-65.08,-64.0,2021-01-15,2021-01-31,0,0,peninsula; penguin rookery on Jeanne Hill (species not stated)
+colony,Yule Bay,-70.716,166.478,2016-12-14,2016-12-14,0,0,scene cloud 5%
+colony,Yule Bay,-70.716,166.478,2016-12-24,2016-12-24,0,0,scene cloud 3%
+colony,Yule Bay,-70.716,166.478,2020-12-17,2020-12-17,0,0,scene cloud 10%
+colony,Yule Bay,-70.716,166.478,2022-12-18,2022-12-18,0,0,scene cloud 1%
+colony,Karelin Bay,-66.412,85.384,2018-11-25,2018-11-25,0,0,scene cloud 0%
+colony,Karelin Bay,-66.412,85.384,2020-10-25,2020-10-25,0,0,scene cloud 0%
+colony,Karelin Bay,-66.412,85.384,2021-12-19,2021-12-19,0,0,scene cloud 2%
+colony,Karelin Bay,-66.412,85.384,2023-12-09,2023-12-09,0,0,scene cloud 0%
+colony,Karelin Bay,-66.412,85.384,2024-12-09,2024-12-09,0,0,scene cloud 0%
+colony,Casey Bay,-67.312,46.597,2016-11-08,2016-11-08,0,0,scene cloud 3%
+colony,Casey Bay,-67.312,46.597,2017-10-16,2017-10-16,0,0,scene cloud 1%
+colony,Casey Bay,-67.312,46.597,2019-11-25,2019-11-25,0,0,scene cloud 3%
+colony,Casey Bay,-67.312,46.597,2020-11-15,2020-11-15,0,0,scene cloud 4%
+colony,Casey Bay,-67.312,46.597,2022-12-12,2022-12-12,0,0,scene cloud 11%
+colony,Verdi Inlet,-71.556,-74.76,2016-11-06,2016-11-06,0,0,scene cloud 0%
+colony,Verdi Inlet,-71.556,-74.76,2020-12-14,2020-12-14,0,0,scene cloud 2%
+colony,Verdi Inlet,-71.556,-74.76,2021-11-29,2021-11-29,0,0,scene cloud 0%
+colony,Verdi Inlet,-71.556,-74.76,2022-12-04,2022-12-04,0,0,scene cloud 0%
+colony,Verdi Inlet,-71.556,-74.76,2023-12-22,2023-12-22,0,0,scene cloud 0%
+colony,Cape Gates,-73.661,-122.697,2020-12-25,2020-12-25,0,0,scene cloud 0%
+colony,Cape Gates,-73.661,-122.697,2021-12-20,2021-12-20,0,0,scene cloud 0%
+colony,Cape Gates,-73.661,-122.697,2023-12-13,2023-12-13,0,0,scene cloud 0%
+colony,Cape Gates,-73.661,-122.697,2024-12-27,2024-12-27,0,0,scene cloud 0%
+colony,Cruzen Island,-74.724,-140.357,2016-11-29,2016-11-29,0,0,scene cloud 0%
+colony,Cruzen Island,-74.724,-140.357,2019-12-28,2019-12-28,0,0,scene cloud 2%
+colony,Cruzen Island,-74.724,-140.357,2020-12-03,2020-12-03,0,0,scene cloud 1%
+colony,Cruzen Island,-74.724,-140.357,2021-10-28,2021-10-28,0,0,scene cloud 2%
+colony,Cruzen Island,-74.724,-140.357,2024-12-13,2024-12-13,0,0,scene cloud 1%
+colony,Ninnis Bank,-66.723,149.677,2018-12-26,2018-12-26,0,0,scene cloud 0%
+colony,Ninnis Bank,-66.723,149.677,2019-10-12,2019-10-12,0,0,scene cloud 0%
+colony,Ninnis Bank,-66.723,149.677,2019-11-04,2019-11-04,0,0,scene cloud 0%
+colony,Ninnis Bank,-66.723,149.677,2019-12-24,2019-12-24,0,0,scene cloud 1%
+colony,Ninnis Bank,-66.723,149.677,2024-12-07,2024-12-07,0,0,scene cloud 0%
+colony,Porpoise Bay,-66.32,129.75,2019-12-19,2019-12-19,0,0,scene cloud 2%
+colony,Porpoise Bay,-66.32,129.75,2021-10-15,2021-10-15,0,0,scene cloud 0%
+colony,Porpoise Bay,-66.32,129.75,2021-11-04,2021-11-04,0,0,scene cloud 10%
+colony,Porpoise Bay,-66.32,129.75,2021-12-04,2021-12-04,0,0,scene cloud 0%
+colony,Porpoise Bay,-66.32,129.75,2021-12-18,2021-12-18,0,0,scene cloud 6%
+colony,Cape Darlington,-71.887,-60.134,2019-11-12,2019-11-12,0,0,scene cloud 0%
+colony,Cape Darlington,-71.887,-60.134,2019-11-22,2019-11-22,0,0,scene cloud 0%
+colony,Cape Darlington,-71.887,-60.134,2024-12-05,2024-12-05,0,0,scene cloud 0%
+colony,Cape Darlington,-71.887,-60.134,2024-12-21,2024-12-21,0,0,scene cloud 0%
+colony,Cape Poinsett,-65.782,113.235,2019-11-07,2019-11-07,0,0,scene cloud 2%
+colony,Cape Poinsett,-65.782,113.235,2019-12-17,2019-12-17,0,0,scene cloud 1%
+colony,Cape Poinsett,-65.782,113.235,2020-11-21,2020-11-21,0,0,scene cloud 0%
+colony,Cape Poinsett,-65.782,113.235,2020-12-17,2020-12-17,0,0,scene cloud 0%
+colony,Cape Poinsett,-65.782,113.235,2024-11-03,2024-11-03,0,0,scene cloud 1%
+colony,Pfrogner Point,-72.569,-89.906,2018-10-13,2018-10-13,0,0,scene cloud 0%
+colony,Pfrogner Point,-72.569,-89.906,2018-11-03,2018-11-03,0,0,scene cloud 0%
+colony,Pfrogner Point,-72.569,-89.906,2020-11-22,2020-11-22,0,0,scene cloud 0%
+colony,Pfrogner Point,-72.569,-89.906,2021-12-26,2021-12-26,0,0,scene cloud 0%
+clean_ice_or_sea,Yule Bay offset,-70.7161,166.4777,2016-11-23,2016-11-23,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Karelin Bay offset,-66.4118,85.38361,2018-10-09,2018-10-09,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Casey Bay offset,-67.312,46.597,2016-11-08,2016-11-08,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Verdi Inlet offset,-71.556,-74.76,2016-11-06,2016-11-06,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Cape Gates offset,-73.6609,-122.697,2016-11-07,2016-11-07,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Cruzen Island offset,-74.724,-140.357,2016-11-29,2016-11-29,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Ninnis Bank offset,-66.723,149.677,2018-12-26,2018-12-26,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Porpoise Bay offset,-66.3204,129.7496,2017-10-15,2017-10-15,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Cape Darlington offset,-71.8872,-60.1338,2019-10-23,2019-10-23,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Cape Poinsett offset,-65.782,113.235,2019-11-07,2019-11-07,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Pfrogner Point offset,-72.569,-89.906,2018-10-13,2018-10-13,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Yule Bay offset,-70.716,166.478,2016-12-14,2016-12-14,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Karelin Bay offset,-66.412,85.384,2018-11-25,2018-11-25,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Casey Bay offset,-67.312,46.597,2017-10-16,2017-10-16,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Verdi Inlet offset,-71.556,-74.76,2020-12-14,2020-12-14,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Cape Gates offset,-73.661,-122.697,2020-12-25,2020-12-25,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Cruzen Island offset,-74.7235,-140.357,2018-12-03,2018-12-03,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Ninnis Bank offset,-66.723,149.677,2019-10-12,2019-10-12,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Porpoise Bay offset,-66.32,129.75,2019-12-19,2019-12-19,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Cape Darlington offset,-71.887,-60.134,2019-11-12,2019-11-12,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Cape Poinsett offset,-65.782,113.235,2019-12-17,2019-12-17,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Pfrogner Point offset,-72.569,-89.906,2018-11-03,2018-11-03,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Yule Bay offset,-70.716,166.478,2016-12-24,2016-12-24,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Karelin Bay offset,-66.412,85.384,2020-10-25,2020-10-25,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Casey Bay offset,-67.312,46.597,2019-11-25,2019-11-25,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Verdi Inlet offset,-71.556,-74.76,2021-11-29,2021-11-29,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Cape Gates offset,-73.661,-122.697,2021-12-20,2021-12-20,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Cruzen Island offset,-74.724,-140.357,2019-12-28,2019-12-28,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Ninnis Bank offset,-66.723,149.677,2019-11-04,2019-11-04,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Porpoise Bay offset,-66.32,129.75,2021-10-15,2021-10-15,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Cape Darlington offset,-71.887,-60.134,2019-11-22,2019-11-22,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Cape Poinsett offset,-65.782,113.235,2020-11-21,2020-11-21,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Pfrogner Point offset,-72.5687,-89.9058,2019-11-07,2019-11-07,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Yule Bay offset,-70.716,166.478,2020-12-17,2020-12-17,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Karelin Bay offset,-66.412,85.384,2021-12-19,2021-12-19,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Casey Bay offset,-67.312,46.597,2020-11-15,2020-11-15,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Verdi Inlet offset,-71.556,-74.76,2022-12-04,2022-12-04,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Cape Gates offset,-73.661,-122.697,2023-12-13,2023-12-13,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Cruzen Island offset,-74.724,-140.357,2020-12-03,2020-12-03,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Ninnis Bank offset,-66.723,149.677,2019-12-24,2019-12-24,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Porpoise Bay offset,-66.32,129.75,2021-11-04,2021-11-04,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Cape Darlington offset,-71.887,-60.134,2024-12-05,2024-12-05,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Cape Poinsett offset,-65.782,113.235,2020-12-17,2020-12-17,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Pfrogner Point offset,-72.569,-89.906,2020-11-22,2020-11-22,0,-12,12 km south of colony; group set by reviewer
+clean_ice_or_sea,Yule Bay offset,-70.716,166.478,2022-12-18,2022-12-18,12,0,12 km east of colony; group set by reviewer
+clean_ice_or_sea,Karelin Bay offset,-66.412,85.384,2023-12-09,2023-12-09,-12,0,12 km west of colony; group set by reviewer
+clean_ice_or_sea,Casey Bay offset,-67.312,46.597,2022-12-12,2022-12-12,0,12,12 km north of colony; group set by reviewer
+clean_ice_or_sea,Verdi Inlet offset,-71.556,-74.76,2023-12-22,2023-12-22,0,-12,12 km south of colony; group set by reviewer
+colony,Atka Bay,-70.614,-8.132,2023-01-01,2023-01-01,0,0,scene cloud 2%
+colony,Atka Bay,-70.614,-8.132,2023-01-08,2023-01-08,0,0,scene cloud 19%
+colony,Cape Gates,-73.661,-122.697,2016-11-24,2016-11-24,0,0,scene cloud 13%
+colony,Cape Gates,-73.661,-122.697,2016-11-30,2016-11-30,0,0,scene cloud 6%
+colony,Cruzen Island,-74.724,-140.357,2018-11-13,2018-11-13,0,0,scene cloud 23%
+colony,Cruzen Island,-74.724,-140.357,2018-12-23,2018-12-23,0,0,scene cloud 7%
+colony,Cape Darlington,-71.887,-60.134,2019-09-13,2019-09-13,0,0,scene cloud 0%
+colony,Cape Darlington,-71.887,-60.134,2019-12-01,2019-12-01,0,0,scene cloud 1%
+colony,Pfrogner Point,-72.569,-89.906,2019-12-18,2019-12-18,0,0,scene cloud 5%
+colony,Pfrogner Point,-72.569,-89.906,2021-11-17,2021-11-17,0,0,scene cloud 7%
+colony,Pfrogner Point,-72.569,-89.906,2021-12-16,2021-12-16,0,0,scene cloud 0%
+colony,Pfrogner Point,-72.569,-89.906,2021-12-27,2021-12-27,0,0,scene cloud 23%
+colony,Pfrogner Point,-72.569,-89.906,2022-01-05,2022-01-05,0,0,scene cloud 0%
+colony,Karelin Bay,-66.412,85.384,2023-12-25,2023-12-25,0,0,scene cloud 12%
+colony,Karelin Bay,-66.412,85.384,2024-12-23,2024-12-23,0,0,scene cloud 9%
+colony,Karelin Bay,-66.412,85.384,2025-01-22,2025-01-22,0,0,scene cloud 11%
+colony,Verdi Inlet,-71.556,-74.76,2016-11-13,2016-11-13,0,0,scene cloud 26%
+colony,Verdi Inlet,-71.556,-74.76,2016-11-30,2016-11-30,0,0,scene cloud 15%
+colony,Ninnis Bank,-66.723,149.677,2019-12-04,2019-12-04,0,0,scene cloud 29%
+colony,Ninnis Bank,-66.723,149.677,2020-01-20,2020-01-20,0,0,scene cloud 15%
+colony,Ninnis Bank,-66.723,149.677,2020-01-30,2020-01-30,0,0,scene cloud 27%
+colony,Cape Poinsett,-65.782,113.235,2019-09-28,2019-09-28,0,0,scene cloud 8%
+colony,Cape Poinsett,-65.782,113.235,2019-11-23,2019-11-23,0,0,scene cloud 5%
+colony,Cape Poinsett,-65.782,113.235,2019-12-03,2019-12-03,0,0,scene cloud 7%
+colony,Cape Poinsett,-65.782,113.235,2020-11-27,2020-11-27,0,0,scene cloud 1%
+colony,Cape Poinsett,-65.782,113.235,2020-12-21,2020-12-21,0,0,scene cloud 21%

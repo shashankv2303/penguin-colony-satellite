@@ -1,0 +1,11 @@
+name,lat,lon,species_and_size,source,caution
+Cuverville Island,-64.683,-62.633,gentoo ~6500 pairs,Wikipedia (BirdLife IBA 2012),island-level coordinates
+Paulet Island,-63.583,-55.783,Adelie ~100000 pairs,Wikipedia (BirdLife IBA 2013),island-level coordinates
+Brown Bluff,-63.533,-56.917,Adelie ~20000 / gentoo ~550 pairs,Wikipedia (BirdLife IBA),island-level coordinates
+Petermann Island,-65.167,-64.167,gentoo ~3000 pairs (some Adelie),Wikipedia (BirdLife),island-level coordinates
+Danger Islands,-63.417,-54.667,Adelie 751527 pairs in 5+ colonies,Borowicz et al. 2018 Sci Rep 8:3926 via Wikipedia,archipelago; colonies spread over several islands
+Neko Harbour,-64.833,-62.550,gentoo >250 pairs,Wikipedia (unsourced claim),small colony; low confidence
+Penguin Island,-62.100,-57.928,Adelie and chinstrap (size not stated),Wikipedia (BirdLife IBA 2013),size unknown
+Half Moon Island,-62.590,-59.910,chinstrap ~2000 pairs,Wikipedia (BirdLife IBA 2013),island-level coordinates
+Cape Shirreff,-62.459,-60.789,chinstrap up to ~10000 pairs (some gentoo),Wikipedia (BirdLife),peninsula; coordinates are of the cape
+Booth Island,-65.080,-64.000,penguin rookery on Jeanne Hill (species not stated),Wikipedia (Sailing Directions 1976),species and size unknown; low confidence

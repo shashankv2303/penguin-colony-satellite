@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+.env
+
+# not needed in the repo (regenerable or superseded)
+handoff/
+kaggle_cell.txt
+*(1).py
+penguin_colony_satellite_discovery_data.csv
+
+# processed data: keep only the final tiles + stats; the demo folders and .npy are rebuilt by scripts/preprocess.py
+dataset/processed/*
+!dataset/processed/final/
+!dataset/processed/normalization_stats.json
